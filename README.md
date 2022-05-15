@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsk890)](https://github.com/ryo-ma/github-profile-trophy)
+
+![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true)
+[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
