@@ -1,7 +1,5 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Hello%20World!;&fontAlignY=35&desc=JS's%20GitHub%20Profile&fontSize=90&descAlign=70&descAlignY=55&animation=twinkling&fontColor=000000" />
-<!-- 인사말 -->
-
 
 <!-- 소속 -->
 👯 I am currently affiliated with KRISS
@@ -17,6 +15,8 @@
 #### 연구장비 SW개발 직무 준비와 공부를 병행하고 있습니다.
 </p>
 
+[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
+  
   <br>
 <!-- 테크 -->
 <p align="center" dir="auto">
@@ -62,8 +62,8 @@
   
 <!-- 현재 스탯 -->
 #### 🏃Git Activities🤸‍♂️
-![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true&hide=issues,contribs&theme=merko)
-[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
+![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true&hide=issues,contribs&theme=merko&width=300)
+
 
 ![followers](https://img.shields.io/github/followers/jsk890?style=social)
 
