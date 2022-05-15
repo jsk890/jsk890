@@ -9,13 +9,10 @@
 <p fontsize=8>
 안녕하세요,
   
-수학과 졸업 이후 프로그래머로 전향하기 위한 준비를 하고 있습니다.
-
-다양한 분야에서 사용하는 개발 언어를 습득하고 이해기 위해
+<br>
   
-#### 게임, 웹개발 등의 프로젝트를 진행한 적이 있습니다.
-  <br>
-현재는 KRISS에 소속되어
+현재 KRISS에 소속되어
+<br>
   
 #### 연구장비 SW개발 직무 준비와 공부를 병행하고 있습니다.
 </p>
@@ -65,7 +62,7 @@
   
 <!-- 현재 스탯 -->
 #### 🏃Git Activities🤸‍♂️
-![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true)
+![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true&hide=issues,contribs&theme=merko)
 [![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
 
 ![followers](https://img.shields.io/github/followers/jsk890?style=social)
