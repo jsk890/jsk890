@@ -57,7 +57,7 @@
 <!-- 기타 매크로 -->
 <!-- 트로피 -->
 #### 🏆Git Trophies🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=jsk890)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsk890&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
   
 <!-- 현재 스탯 -->
