@@ -4,6 +4,7 @@
 <!-- 소속 -->
 👯 I am currently affiliated with KRISS
 <br><br>
+
 <p fontsize=8>
 안녕하세요,
   
@@ -15,7 +16,10 @@
 #### 연구장비 SW개발 직무 준비와 공부를 병행하고 있습니다.
 </p>
   
-  <br>
+<br>
+  
+[![Jsk890's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsk890&custom_title=Contribution%20activities%20of%20last%2031%20days&theme=react-dark&hide_title=false&hide_border=true&radius=6)](https://github.com/jsk890/github-readme-activity-graph)  
+<br>
 <!-- 테크 -->
 <p align="center" dir="auto">
 <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong>
@@ -65,14 +69,13 @@
 ![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true&hide=issues,contribs&theme=merko&width=300)
 [![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
 
-[![Jsk890's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsk890&custom_title=Jsk890's%20github%20contribution%20activity%20monthly%20graph&theme=react-dark&hide_title=false&hide_border=true&radius=6)](https://github.com/jsk890/github-readme-activity-graph)
-<br><br>
+<br>
+  
 <!-- Contribution Activities -->
 #### 🐍Contribution Snake🐌
 ![snake gif](https://github.com/jsk890/jsk890/blob/output/github-contribution-grid-snake.svg)
   
 <!--  ![followers](https://img.shields.io/github/followers/jsk890?style=social) -->
-
   
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&reversal=true" />
