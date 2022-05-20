@@ -2,24 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Hello%20World!;&fontAlignY=35&desc=JS's%20GitHub%20Profile&fontSize=90&descAlign=70&descAlignY=55&animation=twinkling&fontColor=000000" />
 
 <!-- 소속 -->
-👯 I am currently affiliated with KRISS
+👯 Hi, I am currently affiliated with KRISS
+<br>
+안녕하세요, <br><b> 연구장비 SW개발 직무 준비와 공부를 병행하고 있습니다.
 <br><br>
-
-<p fontsize=8>
-안녕하세요,
   
-<br>
+[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
+[![Solved.ac ](http://mazassumnida.wtf/api/v2/generate_badge?boj=resqme89)](https://solved.ac/resqme89)
   
-현재 KRISS에 소속되어
-<br>
-  
-#### 연구장비 SW개발 직무 준비와 공부를 병행하고 있습니다.
-</p>
-  
-<br>
-  
-[![Jsk890's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsk890&custom_title=Contribution%20activities%20of%20last%2031%20days&theme=react-dark&hide_title=false&hide_border=true&radius=6)](https://github.com/jsk890/github-readme-activity-graph)  
-<br>
+<br><br><br>
 <!-- 테크 -->
 <p align="center" dir="auto">
 <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong>
@@ -55,27 +46,34 @@
 <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=black">
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<br><br>
+<br><br><br><br>
 </p>
   
 <!-- 기타 매크로 -->
 <!-- 트로피 -->
 #### 🏆Git Trophies🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsk890&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
-  
-<!-- 현재 스탯 (Contribution 등) -->
-#### 🏃Git Activities🤸‍♂️
-![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true&hide=issues,contribs&theme=merko&width=300)
-[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
+<br><br><br><br>
 
-<br>
+<!-- 현재 스탯 (Contribution 등) -->
+<!--
+#### 🏃Git Activities🤸‍♂️
+![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true&hide=issues,contribs&theme=merko&width=250)
+<br><br><br>
+-->
   
 <!-- Contribution Activities -->
-#### 🐍Contribution Snake🐌
+#### 🐍Git Contribution Activities🐌
 ![snake gif](https://github.com/jsk890/jsk890/blob/output/github-contribution-grid-snake.svg)
   
 <!--  ![followers](https://img.shields.io/github/followers/jsk890?style=social) -->
+
+[![Jsk890's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsk890&custom_title=Contribution%20activities%20of%20last%2031%20days&theme=react-dark&hide_title=false&hide_border=true&radius=6)](https://github.com/jsk890/github-readme-activity-graph)  
+
+<br><br><br>
+<b> 📬 Contacts </b> <br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:resqme89@gmail.com)](mailto:resqme89@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:resqme89@naver.com)](mailto:resqme89@naver.com)
   
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&reversal=true" />
