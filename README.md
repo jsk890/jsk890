@@ -66,9 +66,12 @@
 #### 🏃Git Activities🤸‍♂️
 ![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true&hide=issues,contribs&theme=merko&width=300)
 
+<!-- Contribution Activities -->
+[![Jsk890's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsk890&theme=react-dark&hide_title=true&hide_border=true&radius=6)](https://github.com/jsk890/github-readme-activity-graph)
 
 ![followers](https://img.shields.io/github/followers/jsk890?style=social)
 
+  
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&reversal=true" />
 </div>
