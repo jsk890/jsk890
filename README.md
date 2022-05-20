@@ -14,8 +14,6 @@
   
 #### 연구장비 SW개발 직무 준비와 공부를 병행하고 있습니다.
 </p>
-
-[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
   
   <br>
 <!-- 테크 -->
@@ -62,14 +60,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsk890&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
   
-<!-- 현재 스탯 -->
+<!-- 현재 스탯 (Contribution 등) -->
 #### 🏃Git Activities🤸‍♂️
 ![jsk890's github stats](https://github-readme-stats.vercel.app/api?username=jsk890&show_icons=true&hide=issues,contribs&theme=merko&width=300)
+[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
 
+[![Jsk890's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsk890&custom_title=Jsk890's%20github%20contribution%20activity%20monthly%20graph&theme=react-dark&hide_title=false&hide_border=true&radius=6)](https://github.com/jsk890/github-readme-activity-graph)
+<br><br>
 <!-- Contribution Activities -->
-[![Jsk890's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsk890&theme=react-dark&hide_title=true&hide_border=true&radius=6)](https://github.com/jsk890/github-readme-activity-graph)
-
-![followers](https://img.shields.io/github/followers/jsk890?style=social)
+#### 🐍Contribution Snake🐌
+![snake gif](https://github.com/jsk890/jsk890/blob/output/github-contribution-grid-snake.svg)
+  
+<!--  ![followers](https://img.shields.io/github/followers/jsk890?style=social) -->
 
   
 <!-- footer -->
