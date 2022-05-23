@@ -6,9 +6,9 @@
 <br>
 안녕하세요, <br><b> 연구장비 SW개발 직무와 공부를 병행하고 있습니다.
 <br><br>
-  
-[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
+
 [![Solved.ac ](http://mazassumnida.wtf/api/v2/generate_badge?boj=resqme89)](https://solved.ac/resqme89)
+[![jsk890's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsk890&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsk890)
   
 <br><br><br>
 <!-- 테크 -->
