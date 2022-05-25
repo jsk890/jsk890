@@ -64,11 +64,12 @@
   
 <!-- Contribution Activities -->
 #### 🐍Git Contribution Activities🐌
+  
 ![snake gif](https://github.com/jsk890/jsk890/blob/output/github-contribution-grid-snake.svg)
   
-<!--  ![followers](https://img.shields.io/github/followers/jsk890?style=social) -->
-
 [![Jsk890's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsk890&custom_title=Contribution%20activities%20of%20last%2031%20days&theme=react-dark&hide_title=false&hide_border=true&radius=6)](https://github.com/jsk890/github-readme-activity-graph)  
+  
+<!--  ![followers](https://img.shields.io/github/followers/jsk890?style=social) -->
 
 <br><br><br>
 <b> 📬 Contacts </b> <br>
