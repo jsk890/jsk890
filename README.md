@@ -2,9 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Hello%20World!;&fontAlignY=35&desc=JS's%20GitHub%20Profile&fontSize=90&descAlign=70&descAlignY=55&animation=twinkling&fontColor=000000" />
 
 <!-- 소속 -->
-👯 Hi, I am currently affiliated with KRISS
+👯 Hi, I am JS and currently affiliated with KRISS
 <br>
-안녕하세요, <br><b> 연구장비 SW개발 직무와 공부를 병행하고 있습니다.
 <br><br>
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=resqme89)](https://solved.ac/resqme89)
